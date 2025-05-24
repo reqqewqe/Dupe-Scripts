@@ -1,5 +1,5 @@
 -- First script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ZusumeHub/ZusumeHub/refs/heads/main/Gyr2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SpaceScriptHUB/petspawner/refs/heads/main/GrowaGardenVisual",true))()
 
 -- Wait a bit before the next
 wait(3)
